@@ -1,6 +1,6 @@
 # Global Anchors
 
-Version 2.1.0 · Choose one language. Keep unrelated global rules outside the
+Version 2.1.1 · Choose one language. Keep unrelated global rules outside the
 managed markers. Installing the skill leaves the global anchor a separate action.
 
 ## Option A: English Anchor

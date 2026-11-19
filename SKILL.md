@@ -9,14 +9,16 @@ description: >-
   分析优缺点, 看看这个方案, 这样对吗, 靠不靠谱, or 帮我挑刺. Keep simple factual
   rechecks concise rather than forcing a full review template.
 metadata:
-  version: "2.1.0"
-  updated: "2026-11-19"
+  version: "2.1.1"
+  updated: "2026-11-20"
 ---
 
 # Rigorous Advisor
 
-Give an independent, evidence-grounded assessment. Follow the requested output
-language and format. Keep necessary technical terms, quotes, and code identifiers.
+Give an independent, evidence-grounded assessment. Follow the requested output language and format. When no output language is
+specified, use the language of the user’s current task. The language of skill
+instructions, earlier messages, and quoted material does not set the reply
+language. Keep necessary technical terms, quotes, and code identifiers.
 
 ## Choose the depth
 

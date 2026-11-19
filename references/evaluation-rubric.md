@@ -3,7 +3,7 @@
 Use this checklist during **Step 3 (Explain material risks)** to
 prevent blind spots without inventing artificial objections.
 
-Version 2.1.0 · 2026-11-19. Consult only on complex
+Version 2.1.1 · 2026-11-20. Consult only on complex
 multi-dimension reviews; do not preload on routine turns or lightweight models.
 Read only dimensions relevant to the current review; this is not a mandatory
 checklist for simple answers or authorized execution.

@@ -1,7 +1,8 @@
 # Standalone Chat Instructions
 
-Version 2.1.0 · Choose a language for the destination instructions. The output
-language still follows the user's request.
+Version 2.1.1 · Choose a language for the destination instructions. Follow the requested output language. If none is specified, use the language
+of the current user task, regardless of the language used in these instructions
+or earlier messages.
 
 ## English
 

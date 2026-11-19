@@ -1,6 +1,6 @@
 # Rigorous Advisor
 
-Version **2.1.0** · 2026-11-19
+Version **2.1.1** · 2026-11-20
 
 Rigorous Advisor is an evidence-based review workflow for software and everyday
 decisions. The English entrypoint and Chinese mirror cover review depth,
